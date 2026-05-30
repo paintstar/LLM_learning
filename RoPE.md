@@ -74,7 +74,7 @@ $$
 q_2^* = q_1 \sin(m\theta) + q_2 \cos(m\theta)
 $$
 
-那我们可以用 $\begin{bmatrix} \cos(m\theta) & -\sin(m\theta) \\ \sin(m\theta) & \cos(m\theta) \end{bmatrix}$ 乘以 $\begin{bmatrix} q_1 \\ q_2 \end{bmatrix}$ 就可以得到 $q_1^*$ 和 $q_2^*$ 了
+那我们可以用 $$ \begin{bmatrix} \cos(m\theta) & -\sin(m\theta) \\ \sin(m\theta) & \cos(m\theta) \end{bmatrix} $$ 乘以 $$ \begin{bmatrix} q_1 \\ q_2 \end{bmatrix}$ 就可以得到 $q_1^*$ 和 $q_2^* $$ 了
 
 实际上我们的向量是多维向量，一般是 128，不止是 2 维。那么如何处理呢
 
